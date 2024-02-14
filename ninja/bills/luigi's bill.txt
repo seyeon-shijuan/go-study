@@ -1,0 +1,6 @@
+Bill breakdown: 
+apple:                    ...$3 
+cake:                     ...$2.99 
+coffee:                   ...$4.99 
+tip:                      ...$5 
+total:                    ...$15.98
